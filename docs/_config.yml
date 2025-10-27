@@ -6,7 +6,7 @@ color_scheme: positron-dark
 logo: images/positron.svg
 title_only_logo: false
 favicon: images/favicon.ico
-url: https://erikbuild-alt.github.io/Prusawire
+url: https://erikbuild.github.io/Prusawire
 search_enabled: true
 search.button: true
 aux_links:
