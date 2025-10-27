@@ -1,0 +1,80 @@
+# Main configuration file for mkdocs generation of Prusawire documentation website
+
+# Note that the build-translations.sh script expects a certain file
+# layout.  See that script and the README file for more details.
+
+# Site and directory configuration
+site_name: Prusawire Documentation
+repo_url: https://github.com/Positron3D/Prusawire
+repo_name: Positron3D/Prusawire
+use_directory_urls: False
+docs_dir: '../'
+site_dir: '../../site/'
+
+# Custom markdown dialect settings
+markdown_extensions:
+  - toc:
+      permalink: True
+      toc_depth: 6
+  - attr_list
+  - mdx_partial_gfm
+  - mdx_truly_sane_lists
+  - mdx_breakless_lists
+plugins:
+  search:
+    lang: en
+  #mkdocs-simple-hooks:
+  #  hooks:
+  #    on_page_markdown: "docs._prusawire.mkdocs_hooks:transform"
+  exclude:
+    glob: "README.md"
+
+# Website layout configuration (using mkdocs-material theme)
+theme:
+  name: material
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: orange
+      accent: orange
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: grey
+      accent: indigo
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  logo: img/positron.svg
+  favicon: img/favicon.ico
+  icon:
+    repo: fontawesome/brands/github
+    alternate: material/web
+  features:
+      #- navigation.tabs
+      #- navigation.expand
+      - navigation.top
+      # if enabled, the TOC doesn't work for some pages
+      # - toc.integrate
+      - search.suggest
+      - search.highlight
+      - search.share
+  language: en
+extra_css:
+  - _prusawire/css/extra.css
+
+# Navigation hierarchy (this should mimic the layout of Overview.md)
+nav:
+  - Overview.md
+  - FAQ.md
+  - Assembly Manual.md
+  - Hardware:
+    - Gantry Deracking.md
+    - XZ Belt Installation and Tensioning.md
+    - Y Belt Installation and Tensioning.md
+  - Software:
+    - Software Installation Overview.md
+  - Tuning and Calibration:
+    - Tuning and Calibration.md

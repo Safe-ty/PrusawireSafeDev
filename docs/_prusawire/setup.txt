@@ -1,0 +1,7 @@
+1. Assuming the pull request has been merged in, the GitHub action will run and render the HTML site under a "gh-pages" branch.  This happens automatically!
+1. Open the repository settings (https://github.com/Positron3D/Prusawire/settings)
+2. Click on "Pages" on the left.
+3. Under "Build and deployment > Source", choose the "gh-pages" branch, and select "/ (root)".
+4. Click Save.
+
+That's it!  The site should soon be accessible at https://positron3d.github.io/Prusawire

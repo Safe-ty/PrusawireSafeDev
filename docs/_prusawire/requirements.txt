@@ -1,0 +1,9 @@
+# Python virtualenv module requirements for mkdocs
+mkdocs
+mkdocs-material
+mkdocs-simple-hooks
+mkdocs-exclude
+mdx-truly-sane-lists
+mdx-breakless-lists
+py-gfm
+markdown

@@ -1,0 +1,10 @@
+# Y Belt Installation and Tensioning
+
+**Compatibility:** *Prusawire - Beta 1*
+
+## Overview
+The Y belt must be installed and tensioned properly to ensure smooth and accurate bed motion.
+
+**Important notes:**
+- Extra belt length has been specified in the BOM; it is expected to have some leftover belt afterwards.
+- **DO NOT cut your belts** until you are 1000% certain you have done it correctly.  It's okay to leave a little extra length hanging out until final assembly and validation.
