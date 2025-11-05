@@ -4,6 +4,11 @@
 
 An unofficial Prusa MK3 and MK4 total conversion mod, from Positron's April Fools of 2025.
 
+## Current Release
+
+Beta 1 (2025.B1) was released on 2025-08-21.  There have been updates and improvements since then.  Be sure to grab the latest STLs and documentation from the GitHub Repository.
+
+Beta 2 is coming SOON(tm).
 
 ## About
 
@@ -37,9 +42,6 @@ First of all, thank you! Development costs have been mostly self-funded, with fi
 
  Please consider posting your completed make to [@ellafoxo's Printables Page for the Beta 1 release](https://www.printables.com/model/1363547-prusawire-2025b1-beta-1/comments)!
 
-## 2025 - Beta 1
-
-This printer is in active development. Please check back regularly for bug fixes and configuration updates!
 
 ## Build Volume
 
