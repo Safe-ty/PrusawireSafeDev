@@ -6,7 +6,7 @@ An unofficial Prusa MK3 and MK4 total conversion mod, from Positron's April Fool
 
 ## Current Release
 
-Beta 1 (2025.B1) was released on 2025-08-21.  There have been updates and improvements since then.  Be sure to grab the latest STLs and documentation from the GitHub Repository.
+Beta 1 (2025.B1) was released on 2025-08-21.  There have been [updates and improvements since then](CHANGELOG.md).  Be sure to grab the latest STLs and documentation from the GitHub Repository.
 
 Beta 2 is coming SOON(tm).
 
