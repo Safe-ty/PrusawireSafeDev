@@ -2,6 +2,8 @@
 
 Updated periodically to note significant design changes, fixes, and enhancements.
 
+- 2025-10-27
+    - Documentation site launched ([https://positron3d.github.io/Prusawire](https://positron3d.github.io/Prusawire)) (via @erikbuild)
 - 2025-10-11
     - y_idler_bracket replaced / updated with much stronger version. (via @erikbuild)
     - Added Rod Length Compatibility to motor mounts and idler brackets (via @Safe-ty)

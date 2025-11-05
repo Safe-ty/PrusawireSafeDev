@@ -1,0 +1,16 @@
+name: Prusawire Documentation
+title: Prusawire Documentation
+description: Positron3D's Prusawire - Official Documentation
+theme: just-the-docs
+color_scheme: positron-dark
+logo: images/positron-prusawire.png
+title_only_logo: false
+favicon: images/favicon.ico
+url: https://positron3d.github.io/Prusawire
+search_enabled: true
+search.button: true
+aux_links:
+  "Positron3D Home":
+    - "https://positron3d.com"
+  "Prusawire GitHub":
+    - "https://github.com/Positron3D/Prusawire"
