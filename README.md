@@ -8,7 +8,7 @@ An unofficial Prusa MK3 and MK4 total conversion mod, from Positron's April Fool
 
 Beta 1 (2025.B1) was released on 2025-08-21.  There have been [updates and improvements since then](CHANGELOG.md).  Be sure to grab the latest STLs and documentation from the GitHub Repository.
 
-Beta 2 is coming SOON(tm).
+Release 1 (2026.R1) is coming SOON(tm)!
 
 ## About
 
@@ -18,7 +18,7 @@ Beta 2 is coming SOON(tm).
 >
 > After months of hard work, please enjoy the build ❤
 > 
-> [-@ellafoxo](https://www.printables.com/@ellafoxo)
+> -@ellafoxo
 
 ## Who This Printer is For
 
@@ -40,9 +40,6 @@ First of all, thank you! Development costs have been mostly self-funded, with fi
 - Support Positron3D to fund future endeavors: 
    - [Donate to Positron3D](https://www.paypal.com/donate/?hosted_button_id=YGPRVTSHN4FQG)
    - [Positron3D Merch](https://nomadsgalaxy-shop.fourthwall.com/)
-
- Please consider posting your completed make to [@ellafoxo's Printables Page for the Beta 1 release](https://www.printables.com/model/1363547-prusawire-2025b1-beta-1/comments)!
-
 
 ## Build Volume
 
@@ -79,7 +76,7 @@ The most up–to–date Klipper configuration files for setting up or updating t
 Many thanks to all the awesome people and companies that have made this possible. Notably:
 
 Most importantly:
-- [Ella Fox](https://printables.com/@ellafoxo), _the architect of Beta 1_ - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
+- Ella Fox, _the architect of Beta 1_ - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
 
 And also:
 - Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!

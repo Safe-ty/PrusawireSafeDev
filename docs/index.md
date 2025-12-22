@@ -24,7 +24,7 @@ Beta 2 is coming SOON(tm).
 >
 > After months of hard work, please enjoy the build ❤
 > 
-> [-@ellafoxo](https://www.printables.com/@ellafoxo)
+> -@ellafoxo
 
 ## Who This Printer is For
 
@@ -62,7 +62,7 @@ First of all, thank you! Development costs have been mostly self-funded, with fi
 Many thanks to all the awesome people and companies that have made this possible.
 
 Most importantly:
-- [Ella Fox](https://printables.com/@ellafoxo), _the architect of Beta 1_ - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
+- Ella Fox, _the architect of Beta 1_ - who took Prusawire from a joke to a beautiful and powerful machine. [Buy Ella a Ko-Fi](https://ko-fi.com/ellafoxo)
 
 And also:
 - Prusa Research - Cheers, Josef and the team for the MK3/4 platform on which this was built upon!
