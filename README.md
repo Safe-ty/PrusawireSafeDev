@@ -113,3 +113,4 @@ Prusawire is currently maintained by the Positron 3D Team.
 
 - Design Lead: @Safe-ty
 - Documentation Lead: @erikbuild
+- Software Lead: @TheNexusAvenger
