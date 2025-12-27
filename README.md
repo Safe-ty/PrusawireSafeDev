@@ -10,6 +10,8 @@ Beta 1 (2025.B1) was released on 2025-08-21.  There have been [updates and impro
 
 Release 1 (2026.R1) is coming SOON(tm)!
 
+Link to Beta 1 Cad Viewer: [Link](https://positron3d.autodesk360.com/g/shares/SH30dd5QT870c25f12fc28f5f9169dbff2f2)
+
 ## About
 
 > Nomad of Positron3D came up with this idea shortly after completing their Switchwire build. The idea started as a quick design exercise, to try and convert a Prusa MK4S frame into a Switchwire, using everything left over from a CORE One Upgrade.
