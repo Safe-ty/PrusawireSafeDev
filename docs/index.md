@@ -42,12 +42,12 @@ Additionally, the following says this printer is for you:
 
 Prusawire, technically, does not count as a Voron Switchwire. We ask you kindly not to nag the Voron Design team for technical support.
 
-Instead, please [join the Positron3D Discord](https://discord.com/invite/positron) for support with your build, and maybe share your progress over there too.
+Instead, please [join the Positron3D Discord](https://discord.gg/positron) for support with your build, and maybe share your progress over there too.
 
 
 ## Serial Numbers
 
-We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
+We are accepting serials over on the [Positron 3D Discord](https://discord.gg/positron). Please submit your request to the #prusawire-serial-request channel over there. 
 
 ## Want to Support the Project?
 
@@ -91,3 +91,4 @@ Prusawire is currently maintained by the Positron 3D Team.
 
 - Design Lead: @Safe-ty
 - Documentation Lead: @erikbuild
+- Software Lead: @TheNexusAvenger
