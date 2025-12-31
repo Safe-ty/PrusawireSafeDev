@@ -10,7 +10,7 @@ Beta 1 (2025.B1) was released on 2025-08-21.  There have been [updates and impro
 
 Release 1 (2026.R1) is coming SOON(tm)!
 
-Link to Beta 1 Cad Viewer: [Link](https://positron3d.autodesk360.com/g/shares/SH30dd5QT870c25f12fc28f5f9169dbff2f2)
+Link to Beta 1 CAD Viewer: [Link](https://positron3d.autodesk360.com/g/shares/SH30dd5QT870c25f12fc28f5f9169dbff2f2)
 
 ## About
 
@@ -57,11 +57,11 @@ Z: 185mm
 
 Prusawire, technically, does not count as a Voron Switchwire. We ask you kindly not to nag the Voron Design team for technical support.
 
-Instead, please [join the Positron3D Discord](https://discord.com/invite/positron) for support with your build, and maybe share your progress over there too.
+Instead, please [join the Positron3D Discord](https://discord.gg/positron) for support with your build, and maybe share your progress over there too.
 
 ## Serial Numbers
 
-We are accepting serials over on the [Positron 3D Discord](https://discord.com/invite/positron). Please submit your request to the #prusawire-serial-request channel over there. 
+We are accepting serials over on the [Positron 3D Discord](https://discord.gg/positron). Please submit your request to the #prusawire-serial-request channel over there. 
 
 ## Upgrading the Einsy Rambo to Klipper - Read this
 
